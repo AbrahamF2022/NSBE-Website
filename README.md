@@ -7,16 +7,9 @@ Collaboration Guidelines
 
 All work must be done on separate branches. Use descriptive branch names:
 
-feature/signup-form
-
-bugfix/navbar-alignment
-
 All changes must go through Pull Requests (PRs) into main.
 
 At least one code reviewer approval is required before merging.
 
 Write clear commit messages:
 
-"Add responsive navbar component"
-
-"Fix footer alignment bug"
